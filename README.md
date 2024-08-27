@@ -4,6 +4,8 @@ This repository is the dataset for the paper “Efficient Polarization Demosaick
 
 The dataset consists of several thousand simultaneously or individually captured LWIR and VIS DoFP images.
 
+[Uploading Liu1.pdf…]()
+
 Full dataset will be made public when the article is published.
 
 ### Contact
