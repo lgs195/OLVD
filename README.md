@@ -1,6 +1,6 @@
 # OLVD: An outdoor LWIR-VIS DoFP polarization images dataset
 
-This repository is the dataset for the paper “Efficient Polarization Demosaicking using Low-Cost Edge-Aware and Inter-Channel Correlation”.
+This repository is the dataset for the paper "Efficient Polarization Demosaicking using Low-Cost Edge-Aware and Inter-Channel Correlation" and project [PFDAENet](https://github.com/lgs195/PFDAENet).
 
 The dataset consists of several thousand simultaneously or individually captured LWIR and VIS DoFP images.
 
