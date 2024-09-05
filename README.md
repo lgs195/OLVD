@@ -6,7 +6,7 @@ The dataset consists of several thousand simultaneously or individually captured
 
 <img src="https://github.com/lgs195/OLVD/blob/main/dataset2_1.png" width="500px">
 
-Download LWIR parts: [OLVD-LWIR](https://drive.google.com/file/d/1RNeckwYlboubHV0kxiZgvtylxqzhmlf3/view?usp=sharing)
+Download LWIR parts: [OLVD-LWIR](https://drive.google.com/file/d/1RNeckwYlboubHV0kxiZgvtylxqzhmlf3/view?usp=sharing)(google drive)
 
 Full dataset will be made public when the article is published.
 
